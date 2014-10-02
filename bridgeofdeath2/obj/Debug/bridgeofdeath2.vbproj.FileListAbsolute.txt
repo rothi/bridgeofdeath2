@@ -1,0 +1,11 @@
+H:\Comp Program\bridgeofdeath2\bridgeofdeath2\bin\Debug\bridgeofdeath2.exe.config
+H:\Comp Program\bridgeofdeath2\bridgeofdeath2\bin\Debug\bridgeofdeath2.exe
+H:\Comp Program\bridgeofdeath2\bridgeofdeath2\bin\Debug\bridgeofdeath2.pdb
+H:\Comp Program\bridgeofdeath2\bridgeofdeath2\bin\Debug\bridgeofdeath2.xml
+H:\Comp Program\bridgeofdeath2\bridgeofdeath2\obj\Debug\bridgeofdeath2.vbprojResolveAssemblyReference.cache
+H:\Comp Program\bridgeofdeath2\bridgeofdeath2\obj\Debug\bridgeofdeath2.Form1.resources
+H:\Comp Program\bridgeofdeath2\bridgeofdeath2\obj\Debug\bridgeofdeath2.Resources.resources
+H:\Comp Program\bridgeofdeath2\bridgeofdeath2\obj\Debug\bridgeofdeath2.vbproj.GenerateResource.Cache
+H:\Comp Program\bridgeofdeath2\bridgeofdeath2\obj\Debug\bridgeofdeath2.exe
+H:\Comp Program\bridgeofdeath2\bridgeofdeath2\obj\Debug\bridgeofdeath2.xml
+H:\Comp Program\bridgeofdeath2\bridgeofdeath2\obj\Debug\bridgeofdeath2.pdb
